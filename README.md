@@ -5,5 +5,5 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Charles for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Charles](https://github.com/carbo740) for the Lighthouse Labs Web Development Bootcamp.
 
